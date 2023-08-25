@@ -1,2 +1,3 @@
-# IMDB-CloneCN
- IMDB-Clone for coding ninja
+# imdbClone
+IMDB Clone made using the OMDB API
+
